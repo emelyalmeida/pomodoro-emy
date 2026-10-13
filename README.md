@@ -1,22 +1,21 @@
-# Pomodoro Emy 🌸
+# Pomodoro Emy
 
-Um aplicativo de estudos com interface gráfica em Java Swing, criado para praticar lógica de programação e desenvolvimento desktop — com uma estética rosa, porque produtividade também pode ter personalidade.
+Um timer Pomodoro feito em Java Swing para usar durante os estudos. A ideia foi criar algo simples, com uma interface rosa, e praticar a construção de aplicações desktop em Java.
 
 ## Funcionalidades
-- Temporizador de foco de 25 minutos
+- Timer de foco de 25 minutos
 - Pausa curta e pausa longa
-- Contador de ciclos Pomodoro
-- Interface gráfica com Java Swing
+- Contador de ciclos
 
 ## Tecnologias
-Java · Java Swing · NetBeans
+Java, Swing e NetBeans.
 
 ## Como executar
-Abra o projeto no NetBeans ou em uma IDE compatível, confira se o JDK está configurado e compile a classe `PomodoroEmy`.
+Abra o projeto no NetBeans ou em outra IDE compatível com Java. Confira se o JDK está configurado e execute a classe principal do projeto.
 
 ## O que pratiquei
-Lógica de temporização, organização de código Java e construção de interfaces gráficas.
+Lógica de temporização e criação de interface gráfica com Swing.
 
-![Captura de tela](./Captura%20de%20tela%202026-05-03%20230631.png)
+![Captura de tela do projeto](./Captura%20de%20tela%202026-05-03%20230631.png)
 
-Feito por [Emely Almeida](https://github.com/emelyalmeida) 💗
+Desenvolvido por [Emely Almeida](https://github.com/emelyalmeida).
